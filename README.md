@@ -21,7 +21,7 @@ Computer numerical control (CNC) is the automation of machine tools by means of 
 
 
 
-
+[](https://user-images.githubusercontent.com/30692754/28941913-21231b96-78b7-11e7-945c-477e0c3ac6d9.jpg)
 
 
 
