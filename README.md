@@ -25,4 +25,8 @@ Computer numerical control (CNC) is the automation of machine tools by means of 
 
 
 
+### ABOUT ME
+### NAVAS K A
+### Doing B.Tech in Electronics and Communication Engineering
+### 8129870302
 ## [Follow me on Facebook](https://www.facebook.com/ka.navas.5)
