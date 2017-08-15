@@ -1,5 +1,18 @@
-##FAB LAB WORKSHOP
-**SYLLABUS TO BE COVERED IN THE PROGRAM**
+### FAB LAB WORKSHOP
+## **SYLLABUS TO BE COVERED IN THE PROGRAM**
+Day 1 : Introduction to Fablab 
+
+Day 2 : Github Pages and Documentation
+
+Day 3 : 3D Printing
+                                
+Day 4 : Laser Cutting,Moulding and Casting
+                               
+Day 5 : Electronics Production and CNC
+                                
+Day 6 : Vinyl Cutting 
+
+Day 7 : Screen Printing
 
    
    
