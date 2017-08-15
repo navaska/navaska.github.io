@@ -1,5 +1,5 @@
 ## **FAB LAB WORKSHOP**
-## SYLLABUS TO BE COVERED IN THE PROGRAM
+### SYLLABUS TO BE COVERED IN THE PROGRAM
 Day 1 : Introduction to Fablab 
 
 Day 2 : Github Pages and Documentation
