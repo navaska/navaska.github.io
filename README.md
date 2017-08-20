@@ -68,9 +68,14 @@ A vinyl cutter (or vinyl plotter) is a computer-controlled plotting device with 
 
 - ## [DAY-6   MY VINYL CUTTING Experiences](https://navaska.github.io/vinylcutting)
 
+
+
+
+
+
 ### _ABOUT ME_
 ### NAVAS K A
-Doing B.Tech in Electronics and Communication Engineering
+Doing B.Tech in Electronics and Communication Engineering at MESCE,KUTTIPURAM
 
 
 8129870302
