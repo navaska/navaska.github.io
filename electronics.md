@@ -10,7 +10,7 @@
  
  **PCB MILLING using shopbot**
  
- <img src="shopot.jpg" height="760" width="1024">
+ <img src="shopbot.jpg" height="760" width="1024">
  
  <img src="milling 1.jpg" height="760" width="1024">
  
