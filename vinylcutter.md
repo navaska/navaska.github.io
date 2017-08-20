@@ -20,21 +20,21 @@ Select the whole text and using print option print the text.  The viny cutter wi
 
 After completing the machine process release the vinyl sheet and cut out the required portions.
 
-<img src="vinylcutting 2.jpg" height="760" width="1024">
+<img src="vinyl cutting 2.jpg" height="760" width="1024">
 
 Gently apply the transfer tape on it and carefully take the transfer tape.
 
-<img src="vinylcutting 3.jpg" height="760" width="1024">
+<img src="vinyl cutting 3.jpg" height="760" width="1024">
 
-<img src="vinylcutting 4.jpg" height="760" width="1024">
+<img src="vinyl cutting 4.jpg" height="760" width="1024">
 
 Make sure the project surface where the text has to apply is clean dry. Carefully place the transfer tape with vinyl images onto the surface 
 
-<img src="vinylcutting 5.jpg" height="760" width="1024">
+<img src="vinyl cutting 5.jpg" height="760" width="1024">
 
 Peel the transfer tape away from the vinyl at a 45-degree angle.
 
-<img src="vinylcutting 6.jpg" height="760" width="1024">
+<img src="vinyl cutting 6.jpg" height="760" width="1024">
 
 
 
