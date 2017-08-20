@@ -11,7 +11,7 @@
  4.AutoCad
  
  
-  **A**fter the designing of the 3D structures we have to save the file in **.stl** format. stl means that stereolithography file format used for the 3D structue designing.
+  After the designing of the 3D structures we have to save the file in **.stl** format. stl means that stereolithography file format used for the 3D structue designing.
         
-     3D printer reads only G-codes so that we have to convert the **.stl** format file into **.gcode** format. For the conversion we can use any softwares which converts the files into **.gcode** format. Here our 3D printer is **ULTIMAKER 2+**. it has it's own customized software called **CURA** for the conversion of 3D structures into .gcode format.
+ 3D printer reads only G-codes so that we have to convert the **.stl** format file into **.gcode** format. For the conversion we can use any softwares which converts the files into **.gcode** format. Here our 3D printer is **ULTIMAKER 2+**. it has it's own customized software called **CURA** for the conversion of 3D structures into .gcode format.
         
