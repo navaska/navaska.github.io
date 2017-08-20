@@ -53,7 +53,8 @@ It is a machine allowing the creation of a physical object from a three-dimensio
 ## ELECTRONICS PRODUCTION
 <img src="ShopBot_deskTop.jpeg" height="400" width="400">
 In Elctronics section PCB milling using a CNC machine called **shopbot** was done.
-- ## [DAY-5   ELECTRONICS PRODUCTION Experiences](https://navaska.github.io/electronics) 
+
+- ## [DAY-5  MY ELECTRONICS PRODUCTION Experiences](https://navaska.github.io/electronics) 
  
  ## **Sixth day of my fab works**
  ## VINYL CUTTING
