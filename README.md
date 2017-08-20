@@ -35,7 +35,7 @@ In my second day of fab workshop, got an idea about how to create a github page 
 ## **Third day of my fab works**
 
 ## 3D Printer
-<img src="5800fd32d730f.png">
+<imgsrc="5800fd32d730f.png">
 
 What is a 3D printer?
 It is a machine allowing the creation of a physical object from a three-dimensional digital model, typically by laying down many thin layers of a material in succession.
