@@ -1,5 +1,5 @@
 ## 3D PRINTER
- **I**n my 3rd day of fablab works i learned more things about the 3D printer .As it is already explained it is CNC machine itself. We can develop any solid structures throygh the 3D printer. All the things we have know that is to create the *3D design* of the structure. For the development 3D structuters we can use any kind of 3D designing softwares.
+ **I**n my 3rd day of fablab works i learned more things about the 3D printer .As it is already explained it is a CNC machine itself. We can develop any solid structures through the 3D printer. All the things we have know that is to create the *3D design* of the structure. For the development 3D structuters we can use any kind of 3D designing softwares.
  
  ### Commonly used Softwares for 3D design are
  1.Rhinoceros
