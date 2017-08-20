@@ -51,7 +51,7 @@ It is a machine allowing the creation of a physical object from a three-dimensio
 - ## [DAY-4   MY LASER CUTTING Experiences](https://navaska.github.io/lasercutting)
 ## **Fifth day of my fab works**
 ## ELECTRONICS PRODUCTION
-<img src="ShopBot_deskTop.jpg" height="400" width="400">
+<img src="ShopBot_deskTop.jpeg" height="400" width="400">
   In Elctronics section PCB milling using a CNC machine called **shopbot** was done.
  - ## [DAY-5   ELECTRONICS PRODUCTION Experiences](https://navaska.github.io/electronics) 
  
