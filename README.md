@@ -34,14 +34,14 @@ In my second day of fab workshop, got an idea about how to create a github page 
 
 ## **Third day of my fab works**
 
-## 3D Printer
+- ## 3D Printer
 <img src="5800fd32d730f.png">
 
 What is a 3D printer?
 It is a machine allowing the creation of a physical object from a three-dimensional digital model, typically by laying down many thin layers of a material in succession.
 3D printing, also known as additive manufacturing (AM), refers to processes used to create a three-dimensional object in which layers of material are formed under computer control to create an object. Objects can be of almost any shape or geometry and are produced using digital model data from a 3D model or another electronic data source such as an Additive Manufacturing File (AMF) file. STL is one of the most common file types that 3D printers can read. Thus, unlike material removed from a stock in the conventional machining process, 3D printing or AM builds a three-dimensional object from computer-aided design (CAD) model or AMF file by successively adding material layer by layer.
 
-## [DAY-3   MY 3D Printing Experiences](https://github.com/navaska/navaska.github.io/blob/master/DAY%203-3D%20Printing%20Experiences.md)
+## [DAY-3   MY 3D Printing Experiences](https://github.com/navaska/navaska.github.io/DAY 3-3D Printing Experiences)
 
 
 
