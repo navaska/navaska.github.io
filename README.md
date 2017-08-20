@@ -44,8 +44,8 @@ It is a machine allowing the creation of a physical object from a three-dimensio
  - ## [DAY-3   MY 3D Printing Experiences](https://navaska.github.io/DAY3-3DPrintingExperiences)
  
 ## **Fourth day of my fab works**
-   ## LASER CUTTER
-   <img src="epilog.jpg" height="500" width="500">
+## LASER CUTTER
+<img src="epilog.jpg" height="400" width="400">
    **Laser cutting** is a technology that uses a laser to cut materials, and is typically used for industrial manufacturing applications, but is also starting to be used by schools, small businesses, and hobbyists. Laser cutting works by directing the output of a high-power laser most commonly through optics. The laser optics and CNC (computer numerical control) are used to direct the material or the laser beam generated. A typical commercial laser for cutting materials would involve a motion control system to follow a CNC or G-code of the pattern to be cut onto the material. The focused laser beam is directed at the material, which then either melts, burns, vaporizes away, or is blown away by a jet of gas,[1] leaving an edge with a high-quality surface finish. Industrial laser cutters are used to cut flat-sheet material as well as structural and piping materials.
    
 - ## [DAY-4   MY LASER CUTTING Experiences](https://navaska.github.io/lasercutting)
