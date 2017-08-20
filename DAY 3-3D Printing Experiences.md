@@ -44,12 +44,12 @@ For most of the 3D structures we need supprort structures also , in CURA there i
    Next step is to create the code for that save the file from CURA it will be in the **.gcode** format.
    
    Then save the **.gcode** file in the Removable Disk of the 3D printer.Start printing. 
-<img src="printing.png" height="760" width="1024">
-<img src="printing 2.png" height="760" width="1024">
+<img src="printing.jpg" height="760" width="1024">
+<img src="printing 2.jpg" height="760" width="1024">
 
 **Here is the Front frame of the Spectacles**
-<img src="printing completed.png" height="760" width="1024">
-<img src="printing completed 1.png" height="760" width="1024">
+<img src="printing completed.jpg" height="760" width="1024">
+<img src="printing completed 2.jpg" height="760" width="1024">
 
 
 
