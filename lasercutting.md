@@ -13,7 +13,7 @@ Here is  my laser engraving experience
 
 For this First I selected my photo and changed its characteristics because, for laser engraving it needs Black and white image. So i changed it to Black and white image.
 
-<img src="navas.k.a-3.jpg" height="760" width="1024">
+<img src="navas k a.JPG" height="760" width="1024">
 
 
 For laser engraving we have to select **RASTER** and for cutting we have to select **VECTOR**
