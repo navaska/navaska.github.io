@@ -29,7 +29,7 @@ Computer numerical control (CNC) is the automation of machine tools by means of 
 
 ## **Second day of my fab works**
 
-In my second day of fab workshop, got an idea about how to create a github page and document the important things in it.we had a reat session about the documentation process.Each and every stages of the page creation and documentation are well explained.
+In my second day of fab workshop, got an idea about how to create a github page and document the important things in it.we had a great session about the documentation process.Each and every stages of the page creation and documentation are well explained.
 
 
 ## **Third day of my fab works**
